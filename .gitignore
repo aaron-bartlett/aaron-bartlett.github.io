@@ -1,0 +1,14 @@
+.DS_Store
+~$*
+*.docx
+*.mov
+*.md
+archive/
+simfire_video.gif
+simfire_video.mov
+glwrf_website_demo.gif
+headshot.png
+compass_staff_meeting_slide.png
+website_sketch.jpg
+.impeccable/
+.claude/settings.local.json
